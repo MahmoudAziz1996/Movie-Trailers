@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="pref_sort_labels">
+        <item>@string/sort_Hight_label</item>
+        <item>@string/sort_popular_label</item>
+        <item>@string/sort_favourite_label</item>
+    </array>
+
+    <array name="pref_csort_values">
+        <item>@string/sort_Hight_Value</item>
+        <item>@string/sort_popular_Value</item>
+        <item>@string/sort_favourite_Value</item>
+    </array>
+</resources>
